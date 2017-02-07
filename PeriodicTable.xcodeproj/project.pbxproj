@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		BAD022211E4A3F96003E7F52 /* PeriodicTable */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PeriodicTable; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAD022241E4A3F96003E7F52 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		BAD0222B1E4A4424003E7F52 /* ptable_access.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ptable_access.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				BAD022241E4A3F96003E7F52 /* main.cpp */,
+				BAD0222B1E4A4424003E7F52 /* ptable_access.h */,
 			);
 			path = PeriodicTable;
 			sourceTree = "<group>";
