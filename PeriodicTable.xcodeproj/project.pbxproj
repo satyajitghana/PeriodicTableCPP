@@ -241,6 +241,7 @@
 				BAD0222A1E4A3F96003E7F52 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

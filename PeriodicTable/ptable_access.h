@@ -29,7 +29,7 @@ public:
         <<"\nMass : "<<mass
         <<"\nBlock : "<<block
         <<"\nElectronic Configuration : "<<ec
-        <<"\nYear of Discovery : "<<year;
+        <<"\nYear of Discovery : "<<year<<"\n";
         
     }
     
@@ -45,6 +45,14 @@ public:
     
     int geta_no() {
         return this->a_no;
+    }
+    
+    char get_s(){
+        return block;
+    }
+    
+    int get_mass() {
+        return this->mass;
     }
 };
 
